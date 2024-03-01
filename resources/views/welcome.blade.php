@@ -7,6 +7,8 @@
 </head>
 <body>
 
+    @include('layouts.nav')
+
     <h1>hola</h1>
 
     
