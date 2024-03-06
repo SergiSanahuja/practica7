@@ -6,12 +6,7 @@
     <title>Document</title>
 </head>
 <body>
-
-    @include('layouts.nav')
-
-    <h1>hola</h1>
-
-    
+    <h1>About</h1>
     
 </body>
 </html>
