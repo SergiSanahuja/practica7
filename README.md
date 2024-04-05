@@ -66,8 +66,8 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
 
 ## Avis
-Importar la bd 
-obrir la terminal del aragon i entrar a la ruta de la pràctica, seguidament executar la comande 'npm run dev'
+Importar la bd. 
+obrir la terminal del aragon i entrar a la ruta de la pràctica, seguidament executar la comande 'npm run dev'.
 
 
 ## Usuaris
