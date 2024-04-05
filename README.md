@@ -69,5 +69,5 @@ The Laravel framework is open-sourced software licensed under the [MIT license](
 sergi@gmail.com
 adri@gmail.com
 
-##Password
+##  Password
 Tots els usuaris tenen com a password: P@ssw0rd
